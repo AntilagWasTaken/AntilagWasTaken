@@ -11,7 +11,7 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=589801217283063848)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellow+World!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellow+World!;i'm+in+the+void)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
