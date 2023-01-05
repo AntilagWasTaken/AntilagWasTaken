@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AntilagWasTaken)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/589801217283063848?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/589801217283063848)
+[![Discord Presence](https://lanyard.cnrad.dev/api/589801217283063848)](https://discord.com/users/589801217283063848)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellow+World!;i'm+in+the+void)](https://git.io/typing-svg)
 
