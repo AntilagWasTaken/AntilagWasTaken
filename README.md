@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=seadhy)
+![Profile Views](https://komarev.com/ghpvc/?username=AntilagWasTaken)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/589801217283063848)](https://discord.com/users/589801217283063848)
 
