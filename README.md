@@ -6,7 +6,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=589801217283063848)
+![Profile Views](https://komarev.com/ghpvc/?username=seadhy)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/858904514286583808)](https://discord.com/users/589801217283063848)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellow+World!;i'm+in+the+void)](https://git.io/typing-svg)
 
